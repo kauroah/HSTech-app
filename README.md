@@ -40,6 +40,7 @@ Purchases are **simulated** (no real billing is used).
 
 ## 🏗 Project Structure
 
+```
 lib/
 ├── main.dart
 ├── app_bootstrap.dart
@@ -55,7 +56,7 @@ lib/
     │       └── plan_card.dart
     └── home/
         └── home_page.dart
-
+```
 
 ## ▶️ How to Run the Application
 
