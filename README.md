@@ -40,6 +40,8 @@ Purchases are **simulated** (no real billing is used).
 - Automatic navigation based on user access state
 
 
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/4c3a68d2-ebfc-40a6-9514-472dfd5ee2e9" />
+
 
 ## 🏗 Project Structure
 
