@@ -48,7 +48,7 @@ Purchases are **simulated** (no real billing is used).
 ```
 lib/
 ├── main.dart
-├── app_bootstrap.dart
+├── app.dart
 ├── core/
 │   └── storage/
 │       └── subscription_storage.dart
