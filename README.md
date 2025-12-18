@@ -1,12 +1,9 @@
-Here's the corrected README file with proper formatting and structure:
-
-```markdown
 # 📱 HSTech App (Flutter)
 
 This project is a simple Flutter application that demonstrates a **typical subscription flow** used in many mobile apps.  
 It was built as part of a technical test assignment and focuses on **logic, clarity, and speed of implementation**, rather than complex UI or real billing integration.
 
----
+
 
 ## 🚀 Application Idea
 
@@ -26,7 +23,6 @@ The application simulates how real subscription-based apps work:
 All logic is handled locally using `SharedPreferences`.  
 Purchases are **simulated** (no real billing is used).
 
----
 
 ## ✨ Features
 
@@ -40,11 +36,10 @@ Purchases are **simulated** (no real billing is used).
 - Persistent access state across app restarts
 - Automatic navigation based on user access state
 
----
+
 
 ## 🏗 Project Structure
 
-```
 lib/
 ├── main.dart
 ├── app_bootstrap.dart
@@ -60,9 +55,7 @@ lib/
     │       └── plan_card.dart
     └── home/
         └── home_page.dart
-```
 
----
 
 ## ▶️ How to Run the Application
 
@@ -87,4 +80,3 @@ flutter run
 - Improve UI/UX and animations
 - Add unit and widget tests
 - Improve navigation with a routing solution
-```
