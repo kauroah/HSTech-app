@@ -1,7 +1,7 @@
 ### ENGLSIH VERSION
 
 
-# 📱 HSTech App (Flutter)
+# 📱 MSTech App (Flutter)
 
 This project is a simple Flutter application that demonstrates a **typical subscription flow** used in many mobile apps.  
 It was built as part of a technical test assignment and focuses on **logic, clarity, and speed of implementation**, rather than complex UI or real billing integration.
